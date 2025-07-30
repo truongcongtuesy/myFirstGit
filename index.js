@@ -1,4 +1,5 @@
-console.log("hello world");
+
+console.log("I caused a merge conflict.");
 
 function add(a, b) {
   return a + b;
@@ -6,3 +7,4 @@ function add(a, b) {
 
 const result = add(5, 10);
 console.log("The sum of 5 + 10 is:", result);
+
